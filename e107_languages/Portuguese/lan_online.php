@@ -1,61 +1,53 @@
 <?php
-/*
-+---------------------------------------------------------------+
-|        e107 sítio internet content management system Portuguese Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2024/04/21 17:40:40
-|
-|        $Author: Rica-Carv $
-+---------------------------------------------------------------+
-*/
 
-define("ONLINE_EL1", "Convidados:");
-define("ONLINE_EL2", "Membros:");
-define("ONLINE_EL3", "Nesta página:");
-define("ONLINE_EL4", "On-line");
-define("ONLINE_EL5", "Membros");
-define("ONLINE_EL6", "Novo membro");
-define("ONLINE_EL7", "visualização");
-define("ONLINE_EL8", "mais online:");
-define("ONLINE_EL9", "na");
-define("ONLINE_EL10", "Nome do membro");
-define("ONLINE_EL11", "Página de visualização");
-define("ONLINE_EL12", "Responder aos");
-define("ONLINE_EL13", "Fórum");
-define("ONLINE_EL14", "Segmento");
-define("ONLINE_EL15", "Página de vídeo");
-define("ONLINE_EL16", "Informação não disponível");
-define("CLASSRESTRICTED", "Página restrita classe");
-define("CHAT", "Bate-papo");
-define("DOWNLOAD", "Descargas");
-define("EMAIL", "endereço electrónico.php");
-define("FORUM", "Índice do Fórum principal");
-define("LINKS", "Ligações");
-define("NEWS", "Notícias");
-define("OLDPOLLS", "Enquetes antigas");
-define("POLLCOMMENT", "Enquete");
-define("PRINTPAGE", "Impressão");
-define("LOGIN", "Efetuar entrar");
-define("SEARCH", "À procura");
-define("STATS", "Estatísticas do site");
-define("SUBMITNEWS", "Enviar notícias");
-define("UPLOAD", "Carregamentos");
-define("USERPAGE", "Perfis de utilizador");
-define("USERSETTINGS", "Configurações de utilizador");
-define("ONLINE", "utilizadores on-line");
-define("LISTNEW", "Novos itens de lista");
-define("USERPOSTS", "publicações do utilizador");
-define("SUBCONTENT", "Enviar conteúdo");
-define("TOP", "Top tópicos cartazes/mais ativos");
-define("ADMINAREA", "Área do administrador");
-define("BUGTRACKER", "Registro de erros");
-define("EVENT", "Lista de eventos");
-define("CALENDAR", "Calendário de eventos");
-define("FAQ", "Perguntas Freqüentes");
-define("PM", "Mensagens privadas");
-define("SURVEY", "Pesquisa");
-define("ARTICLE", "Artigo");
-define("CONTENT", "Página de conteúdo");
-define("REVIEW", "Revisão");
-define("OTHER", "Outra página:");
+return [
+    'ONLINE_EL1' => "Convidados:",
+    'ONLINE_EL2' => "Membros:",
+    'ONLINE_EL3' => "Nesta página:",
+    'ONLINE_EL4' => "On-line",
+    'ONLINE_EL5' => "Membros",
+    'ONLINE_EL6' => "Novo membro",
+    'ONLINE_EL7' => "visualização",
+    'ONLINE_EL8' => "mais online:",
+    'ONLINE_EL9' => "na",
+    'ONLINE_EL10' => "Nome do membro",
+    'ONLINE_EL11' => "Página de visualização",
+    'ONLINE_EL12' => "Responder aos",
+    'ONLINE_EL13' => "Fórum",
+    'ONLINE_EL14' => "Segmento",
+    'ONLINE_EL15' => "Página de vídeo",
+    'ONLINE_EL16' => "Informação não disponível",
+    'CLASSRESTRICTED' => "Página restrita classe",
+    'CHAT' => "Bate-papo",
+    'DOWNLOAD' => "Descargas",
+    'EMAIL' => "endereço electrónico.php",
+    'FORUM' => "Índice do Fórum principal",
+    'LINKS' => "Ligações",
+    'NEWS' => "Notícias",
+    'OLDPOLLS' => "Enquetes antigas",
+    'POLLCOMMENT' => "Enquete",
+    'PRINTPAGE' => "Impressão",
+    'LOGIN' => "Efetuar entrar",
+    'SEARCH' => "À procura",
+    'STATS' => "Estatísticas do site",
+    'SUBMITNEWS' => "Enviar notícias",
+    'UPLOAD' => "Carregamentos",
+    'USERPAGE' => "Perfis de utilizador",
+    'USERSETTINGS' => "Configurações de utilizador",
+    'ONLINE' => "utilizadores on-line",
+    'LISTNEW' => "Novos itens de lista",
+    'USERPOSTS' => "publicações do utilizador",
+    'SUBCONTENT' => "Enviar conteúdo",
+    'TOP' => "Top tópicos cartazes/mais ativos",
+    'ADMINAREA' => "Área do administrador",
+    'BUGTRACKER' => "Registro de erros",
+    'EVENT' => "Lista de eventos",
+    'CALENDAR' => "Calendário de eventos",
+    'FAQ' => "Perguntas Freqüentes",
+    'PM' => "Mensagens privadas",
+    'SURVEY' => "Pesquisa",
+    'ARTICLE' => "Artigo",
+    'CONTENT' => "Página de conteúdo",
+    'REVIEW' => "Revisão",
+    'OTHER' => "Outra página:",
+];

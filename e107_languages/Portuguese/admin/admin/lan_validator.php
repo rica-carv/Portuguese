@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'LAN_VALIDATE_0' => "Erro desconhecido",
+    'LAN_VALIDATE_101' => "Valor em falta",
+    'LAN_VALIDATE_102' => "Tipo de valor inesperado",
+    'LAN_VALIDATE_103' => "Caracteres inválidos encontrados",
+    'LAN_VALIDATE_104' => "Não é um endereço electrónico válido",
+    'LAN_VALIDATE_131' => "Seqüência de caracteres muito curta",
+    'LAN_VALIDATE_132' => "Seqüência de caracteres muito longa",
+    'LAN_VALIDATE_133' => "Número muito baixo",
+    'LAN_VALIDATE_134' => "Número muito alto",
+    'LAN_VALIDATE_135' => "Contagem de matriz muito baixa",
+    'LAN_VALIDATE_136' => "Contagem de matriz muito alta",
+    'LAN_VALIDATE_151' => "Número do tipo inteiro esperado",
+    'LAN_VALIDATE_152' => "Número do tipo float esperado",
+    'LAN_VALIDATE_153' => "Tipo de instância esperado",
+    'LAN_VALIDATE_154' => "Tipo de matriz esperado",
+    'LAN_VALIDATE_191' => "Valor vazio",
+    'LAN_VALIDATE_201' => "O arquivo não existe.",
+    'LAN_VALIDATE_202' => "Arquivo não gravável",
+    'LAN_VALIDATE_203' => "Arquivo excede o tamanho de arquivo permitidos",
+    'LAN_VALIDATE_204' => "Tamanho inferior ao permitido tamanho mínimo de arquivo",
+    'LAN_VALIDATE_FAILMSG' => "[x] erro de validação: [y] [z].",
+];
