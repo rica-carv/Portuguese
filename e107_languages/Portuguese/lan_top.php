@@ -1,26 +1,18 @@
 <?php
-/*
-+---------------------------------------------------------------+
-|        e107 sítio internet content management system Portuguese Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2024/04/21 17:52:49
-|
-|        $Author: Rica-Carv $
-+---------------------------------------------------------------+
-*/
 
-define("TOP_LAN_0", "Membros mais activos no Fórum");
-define("TOP_LAN_1", "Nome de utilizador");
-define("TOP_LAN_2", "Mensagens");
-define("TOP_LAN_3", "Comentário de Top Posters");
-define("TOP_LAN_5", "Chatbox Top Posters");
-define("TOP_LAN_6", "Classificação de site");
-define("LAN_1", "Segmento");
-define("LAN_2", "Cartaz");
-define("LAN_3", "Modos de exibição");
-define("LAN_4", "Respostas");
-define("LAN_5", "Última publicação");
-define("LAN_6", "Tópicos");
-define("LAN_7", "Tópicos mais ativos");
-define("LAN_8", "Top postagens");
+return [
+    'TOP_LAN_0' => "Membros mais activos no Fórum",
+    'TOP_LAN_1' => "Nome de utilizador",
+    'TOP_LAN_2' => "Mensagens",
+    'TOP_LAN_3' => "Comentário de Top Posters",
+    'TOP_LAN_5' => "Chatbox Top Posters",
+    'TOP_LAN_6' => "Classificação de site",
+    'LAN_1' => "Segmento",
+    'LAN_2' => "Cartaz",
+    'LAN_3' => "Modos de exibição",
+    'LAN_4' => "Respostas",
+    'LAN_5' => "Última publicação",
+    'LAN_6' => "Tópicos",
+    'LAN_7' => "Tópicos mais ativos",
+    'LAN_8' => "Top postagens",
+];

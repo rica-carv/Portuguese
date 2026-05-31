@@ -1,36 +1,29 @@
 <?php
-/*
-+---------------------------------------------------------------+
-|        e107 sítio internet content management system Portuguese Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/02/12 12:55:49
-|
-|        $Author: Ricardo $
-+---------------------------------------------------------------+
-*/
-define("DBVLAN_1", "Não é possível ler o arquivo de dados do sql<br><br>Por favor, certifique-se de que arquivo <b>core_sql.php</b> existe no diretório <b>/e107_core/sql</b> .");
-define("DBVLAN_4", "Tabela");
-define("DBVLAN_5", "Campo");
-define("DBVLAN_6", "Estatuto");
-define("DBVLAN_7", "Notas");
-define("DBVLAN_8", "Incompatibilidade");
-define("DBVLAN_9", "Atualmente");
-define("DBVLAN_10", "deve ser");
-define("DBVLAN_11", "Campo faltando!");
-define("DBVLAN_12", "Campo extra!");
-define("DBVLAN_13", "Tabela faltando!");
-define("DBVLAN_14", "Escolha o (s) de validar");
-define("DBVLAN_15", "Iniciar verificação");
-define("DBVLAN_16", "Verificação de SQL");
-define("DBVLAN_17", "O mecanismo de armazenamento deve ser [x], mas é [y]");
-define("DBVLAN_18", "O conjunto de caracteres deve ser [x], mas é [y]");
-define("DBVLAN_19", "Tentativa de corrigir");
-define("DBVLAN_21", "Correção de itens selecionados");
-define("DBVLAN_22", "[x] não é legível");
-define("DBVLAN_23", "Utilitários de banco de dados");
-define("DBVLAN_24", "Por favor, selecione a ação.");
-define("DBVLAN_25", "Índice faltando!");
-define("DBVLAN_26", "[x] tabela(s) com problemas.");
-define("DBVLAN_27", "Inconsistência de tabela");
-define("DBVLAN_28", "Não aplicável");
+
+return [
+    'DBVLAN_1' => "Não é possível ler o arquivo de dados do sql<br><br>Por favor, certifique-se de que arquivo <b>core_sql.php</b> existe no diretório <b>/e107_core/sql</b> .",
+    'DBVLAN_4' => "Tabela",
+    'DBVLAN_5' => "Campo",
+    'DBVLAN_6' => "Estatuto",
+    'DBVLAN_7' => "Notas",
+    'DBVLAN_8' => "Incompatibilidade",
+    'DBVLAN_9' => "Atualmente",
+    'DBVLAN_10' => "deve ser",
+    'DBVLAN_11' => "Campo faltando!",
+    'DBVLAN_12' => "Campo extra!",
+    'DBVLAN_13' => "Tabela faltando!",
+    'DBVLAN_14' => "Escolha o (s) de validar",
+    'DBVLAN_15' => "Iniciar verificação",
+    'DBVLAN_16' => "Verificação de SQL",
+    'DBVLAN_17' => "O mecanismo de armazenamento deve ser [x], mas é [y]",
+    'DBVLAN_18' => "O conjunto de caracteres deve ser [x], mas é [y]",
+    'DBVLAN_19' => "Tentativa de corrigir",
+    'DBVLAN_21' => "Correção de itens selecionados",
+    'DBVLAN_22' => "[x] não é legível",
+    'DBVLAN_23' => "Utilitários de banco de dados",
+    'DBVLAN_24' => "Por favor, selecione a ação.",
+    'DBVLAN_25' => "Índice faltando!",
+    'DBVLAN_26' => "[x] tabela(s) com problemas.",
+    'DBVLAN_27' => "Inconsistência de tabela",
+    'DBVLAN_28' => "Não aplicável",
+];
